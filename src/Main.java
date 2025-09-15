@@ -3,5 +3,6 @@ public class Main {
         System.out.println("김이언");
         World.run();
         Hello.run();
+        World.run2();
     }
 }
